@@ -31,7 +31,7 @@
     "bitcoind-rpc": "0.9.1",
     "commander": "2.8.1",
     "dogecoind-rpc": "0.8.1",
-    "lightning": "10.0.1",
+    "lightning": "13.3.0",
     "promptly": "0.2.0"
   },
   "devDependencies": {
